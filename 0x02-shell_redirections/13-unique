@@ -1,0 +1,2 @@
+#!/bin/bash
+uniq | sort | read -a languages
