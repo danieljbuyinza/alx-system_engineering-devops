@@ -1,2 +1,2 @@
 #!/bin/bash
-export $(($bestchol#((water#$WATER + stir#$STIR))))
+echo $((bestchol#$((10#$WATER + 10#$STIR))))
